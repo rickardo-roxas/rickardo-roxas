@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rickardo-roxas
 - 👀 I’m interested in computer science, filmmaking, photography, graphic design, and philosophy.
-- 🌱 I’m currently learning responsive web development and JavaScript
-- 📫 How to reach me: gmail through johanrickardoroxas@gmail.com ; Instagram @johan_roxas ; YouTube Rickado Roxas ; PSN: @johan_roxas
+- 🌱 I’m currently learning Java and JavaScript
+- 📫 How to reach me: gmail through johanrickardoroxas@gmail.com ; Instagram @johan_roxas ; YouTube: Rickado Roxas ; PSN: @johan_roxas
 
 <!---
 rickardo-roxas/rickardo-roxas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

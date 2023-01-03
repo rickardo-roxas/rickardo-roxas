@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickardo-roxas
-- 🏫 I'm a first year Computer Science student in SLU Baguio, PH
+- 🏫 I'm a first year Computer Science student in Saint Louis University (Baguio City, PH)
 - 👀 I’m interested in computer science, filmmaking, photography, graphic design, and philosophy.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: gmail through johanrickardoroxas@gmail.com

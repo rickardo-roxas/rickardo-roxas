@@ -3,10 +3,10 @@
 - 👀 I am interested in computer science, filmmaking, photography, and philosophy.
 - 🌱 I am currently learning Java
 - 📫 How to reach me: 
--                     johanrickardoroxas@gmail.com
--                     Instagram: @johan_roxas
-                      YouTube: Rickado Roxas
-                      PSN: @johan_roxas
+-                     Gmail: johanrickardoroxas@gmail.com
+                      LinkedIn: johan-rickardo-roxas
+                      Instagram: @johan_roxas
+                      YouTube: @JohanRoxas
 
 <!---
 rickardo-roxas/rickardo-roxas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

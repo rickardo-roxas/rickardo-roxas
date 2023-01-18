@@ -2,8 +2,9 @@
 - 🏫 I am a first-year Computer Science student in Saint Louis University (Baguio City, PH)
 - 👀 I am interested in computer science, filmmaking, photography, and philosophy.
 - 🌱 I am currently learning Java
-- 📫 How to reach me: gmail through johanrickardoroxas@gmail.com
--                     Instagram @johan_roxas
+- 📫 How to reach me: 
+-                     johanrickardoroxas@gmail.com
+-                     Instagram: @johan_roxas
                       YouTube: Rickado Roxas
                       PSN: @johan_roxas
 

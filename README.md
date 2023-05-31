@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rickardo-roxas
 - 🏫 I am a second-year Computer Science student in Saint Louis University (Baguio City, PH)
-- 👀 I am interested in computer science, filmmaking, photography, philosophy, and business.
-- 🌱 I am currently learning Java, Data Structures and Algorithms.
+- 👀 I am interested in Java, AI, filmmaking, photography, philosophy, and business.
+- 🌱 I am currently learning Java, Software Modeling, and Mathematics for Computer Science.
 - 📫 How to reach me: 
                       1. Gmail: johanrickardoroxas@gmail.com
                       2. LinkedIn: johan-rickardo-roxas

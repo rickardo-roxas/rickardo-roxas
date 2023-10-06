@@ -2,7 +2,6 @@
 - 🏫 I am a second-year Computer Science student at Saint Louis University (Baguio City, PH)
 - 👀 I am interested in Java, Python, Artificial Intelligence, and Machine Learning.
 - 🌱 I am currently learning Java and Data Structures and Algorithms.
-https://www.codewars.com/users/rickardo-roxas/badges/small
 
 
 <!---

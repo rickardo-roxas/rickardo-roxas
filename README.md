@@ -18,4 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
+https://github-readme-streak-stats.herokuapp.com/?user=rickardo-roxas
+
 

@@ -1,6 +1,6 @@
 
   ## About Me
-  Hello, I am <a href="https://rickardo-roxas.github.io">Johan Rickardo Roxas</a>. I am a 2nd-year Computer Science major at Saint Louis University, Baguio City. 
+  Hello, I am <a href="https://rickardo-roxas.github.io">Johan Rickardo Roxas</a>. I am a 3rd year Computer Science major at Saint Louis University, Baguio City. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/johan-rickardo-roxas/">
